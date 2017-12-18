@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LittleHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvTopTitle">AA费用小助手</string>
+    <string name="WelcommInfo">欢迎你使用AA费用小助手</string>
+    <string name="appGridTextPayoutAdd">记录消费</string>
+    <string name="appGridTextPayoutManage">查询消费</string>
+    <string name="appGridTextAccountBookManage">账本管理</string>
+    <string name="appGridTextStatistiosManage">统计管理</string>
+    <string name="appGridTextCategoryManage">类别管理</string>
+    <string name="appGridTextUserManage">人员管理</string>
+    <string name="app_name5">我的账户</string>
+    <string name="app_name6">账单管理</string>
+
+</resources>
